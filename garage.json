@@ -4,6 +4,31 @@
     "make": "Chevrolet",
     "model": "Corvette Z06",
     "year": 2006
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "year": 2003
+  },
+  {
+    "make": "Honda",
+    "model": "Integra Type R",
+    "year": 1998
+  },
+  {
+    "make": "Ford",
+    "model": "GT",
+    "year": 2004
+  },
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser FJ40",
+    "year": 1974
+  },
+  {
+    "make": "International",
+    "model": "Scout II",
+    "year": 1973
   }
 
 
